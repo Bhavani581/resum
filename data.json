@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Bhavani",
+    "email":"pingali.bhavani98@gmail.com",
+    "mobile":"+91-9999999988"
+  },
+  "education": [
+    {
+    "degree":"B.Tech",
+    "Institute":"PSCMR",
+    "data":["2014-18","79%"]
+  },
+  {
+  "degree":"Intermediate/Diploma",
+  "Institute":"NARAYANA college",
+  "data":["2012-14","87%"]
+},
+{
+"degree":"S.S.C",
+"Institute":"S.V.V.E.M SCHOOL",
+"data":["2012","8.3"]
+}
+  ]
+}
