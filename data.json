@@ -4,6 +4,27 @@
     "email":"pingali.bhavani98@gmail.com",
     "mobile":"+91-9999999988"
   },
+"skills":[
+  {
+  "name":"Programming Language",
+  "data":["c","c++","java","python","php"]
+},
+{
+"name":"DataBases",
+"data":["mysql","oracle"]
+},
+{
+  "name":"Web Technologies",
+  "data":["HTML","CSS","JavaScript"]
+},
+{
+  "name":"Libraries and FrameWorks",
+  "data":["jQuery","codeIgniter"]
+}
+],
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
   "education": [
     {
     "degree":"B.Tech",
@@ -20,5 +41,13 @@
 "Institute":"S.V.V.E.M SCHOOL",
 "data":["2012","8.3"]
 }
-  ]
+],
+"achievements":[
+  {
+    "name":"Awarded as <b>1<sup>st<sup>prize0</b> in <q>Self-Defence</q>"
+  },
+  {
+    "name":"Got<strong>1<sup>st</sup>prize</strong> for <q> PPT </q>"
+  }
+]
 }

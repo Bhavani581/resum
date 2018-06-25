@@ -1,22 +1,25 @@
-<<<<<<< HEAD
-
+table{
+  width:90%;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background:#ddd;
+}
 a{
   text-decoration:underline;
   }
+  .largeFont{
+    font-size:24px;
+  }
   .main{
-=======
-.main{
->>>>>>> f1483f88049ff23b8bb55bbd89d072bd8714ef6d
   display:flex;
   flex-direction:row;
   justify-content:center;
 }
 .child1{
-<<<<<<< HEAD
   max-width: 30%;
-=======
-  width: 30%;
->>>>>>> f1483f88049ff23b8bb55bbd89d072bd8714ef6d
   border:1px solid #000;
   border-radius:15px;
   box-shadow:3px 3px 3px #000;
@@ -24,11 +27,7 @@ a{
   margin:2%;
 }
 .child2{
-<<<<<<< HEAD
   max-width:70%;
-=======
-  width:70%;
->>>>>>> f1483f88049ff23b8bb55bbd89d072bd8714ef6d
   border:1px solid #000;
     border-radius:15px;
     box-shadow:3px 3px 3px #000;
@@ -45,7 +44,6 @@ img{
 h2{
   text-align:center;
 }
-<<<<<<< HEAD
 @media only screen and (min-width:320px) and (max-width:480px){
   a{
     font-size:24px;
@@ -72,7 +70,6 @@ h2{
     margin:2%;
   }
 }
-
 @media only screen and (min-width:481px) and (max-width:768px){
 *{
   font-size: 40px;
@@ -125,5 +122,3 @@ h2{
     margin:2%;
   }
 }
-=======
->>>>>>> f1483f88049ff23b8bb55bbd89d072bd8714ef6d
